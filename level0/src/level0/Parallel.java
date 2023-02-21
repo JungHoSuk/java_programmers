@@ -28,6 +28,7 @@ public class Parallel {
 			}else {
 				answer = 0;
 			}
+			
 		}
 		
 		System.out.println(answer);
