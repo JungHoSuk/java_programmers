@@ -12,8 +12,6 @@ public class NumberOfOrderedPairs {
 			}
 		}
 		System.out.println(answer);
-		answer*= 2;
-		System.out.println(answer);
 	}
 
 }
