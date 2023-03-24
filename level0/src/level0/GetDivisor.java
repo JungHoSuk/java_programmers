@@ -11,7 +11,7 @@ public class GetDivisor {
 		for(int i=1;i<=n;i++) {
 			if(n%i==0) {strAnswer+= (char)i;}
 		}
-//		System.out.println(strAnswer);
+		
 		answer = new int[strAnswer.length()];
 		for(int i=0;i<strAnswer.length();i++) {
 			answer[i] = strAnswer.charAt(i);
